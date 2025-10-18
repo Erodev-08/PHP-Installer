@@ -82,5 +82,3 @@ Notas:
   - actualizar el README de la raíz para enlazar a este;
   - añadir un `run.ps1` que active el venv e inicie la app;
   - documentar pruebas y creación del instalador paso a paso.
-
--- Fin del README
